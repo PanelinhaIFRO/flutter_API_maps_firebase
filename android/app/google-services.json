@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984947295437",
+    "project_id": "apptrabalhocambioco",
+    "storage_bucket": "apptrabalhocambioco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984947295437:android:86afc3bf90b588fc269584",
+        "android_client_info": {
+          "package_name": "charlestonpassos.com.final_api_maps_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984947295437-h132164fvlsk54s5pj2squ0can1k53d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_kUbmlgK6ebHAGSn5OTSDa_6RICQejU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984947295437-h132164fvlsk54s5pj2squ0can1k53d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
